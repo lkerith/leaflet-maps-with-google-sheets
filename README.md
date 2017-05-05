@@ -28,7 +28,7 @@ Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](h
 - jQuery-CSV (v0.71) https://github.com/evanplaice/jquery-csv (MIT)
 - DataTables (v1.10.13) by SpryMedia Ltd. https://datatables.net (MIT)
 
-With the original code shared by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty), this interactive map is initially developed by [Mengqi (Archie) Chen](https://github.com/chenlocker).
+With the original code shared by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty), this interactive map was initially developed by [Mengqi (Archie) Chen](https://github.com/chenlocker).
 
 ## Please submit any pull requests to our DEV repo
 - Leaflet Map FOR DEVELOPMENT https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
